@@ -19,7 +19,7 @@ app.use((err: Error, req: Request, res: Response, next: NextFunction) => {
 });
 
 const PORT = process.env.PORT || 4000;
-const MONGO_URI = process.env.MONGO_URI!;
+const MONGO_URI = process.env.MONGODB_URI!;
 
 // Connects to Mongo and starts server
 mongoose.connect(MONGO_URI)
