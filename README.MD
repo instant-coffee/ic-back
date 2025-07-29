@@ -1,13 +1,9 @@
-# Learning Modaule
+# Learning Module
 
 ## Tech Catalog
 
-### Backend
+### Documentation
 
-#### Technologies
+[Backend](./BACKEND/README.md)
 
-- Typescript
-- MongoDB
-- Mongoose
-- Express
-- Docker
+[Frontend](./FRONTEND/README.md)
