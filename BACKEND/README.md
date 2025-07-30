@@ -149,3 +149,7 @@ docker-compose logs mongodb
 - [ ] Add error handling middleware
 - [ ] Add logging
 - [ ] Add tests 
+
+## 🔗 LINKS
+
+[Express Validator](https://express-validator.github.io/docs)
